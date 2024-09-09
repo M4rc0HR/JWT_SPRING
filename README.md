@@ -24,6 +24,5 @@ Agregar estas dependencias en el pom.xml del proyecto Spring.
 			<version>0.11.5</version>
 			<scope>runtime</scope>
 		</dependency>
-		
 ```
 Author: M4rc0HR (c)2024 
