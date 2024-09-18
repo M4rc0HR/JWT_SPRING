@@ -25,4 +25,4 @@ Agregar estas dependencias en el pom.xml del proyecto Spring.
 			<scope>runtime</scope>
 		</dependency>
 ```
-Author: M4rc0HR (c)2024 
+Author: M4rc0HR 2024(c)
